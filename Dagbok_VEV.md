@@ -12,3 +12,6 @@
 ## 30.11.2017
 ## Fórum í að setja public ip tölu á innra net og heimili 2. Tengdum DHCP Server og settum viðeigandi IP tölur sem vantaði á suma staði. ## Gerðum Port forwarding(HTTP) fyrir heimili 2.Kveiktum á Vlans á switchana með no shutdown skipuna og settum IP tölur á það líka sem     ##  vantaði uppá. Settum DNS á router svo að það væri hægt að refresha á tölvur með DNS.
 ## Að lokum fórum við í að configurea Routera og Switcha með CLI (Command Line Interface) breyta hostname, password, password encryption, ## Banner(Message of the day).
+
+## 04.12.2017
+## Í dag var farið í að setja SSH á switcha á heimili 1 og heimili 2 settum viðeigandi nöfn og password fyrir heimilin. Fylltum einnig öll ## tækin með banners og hostname sem þurftu á því að halda.
