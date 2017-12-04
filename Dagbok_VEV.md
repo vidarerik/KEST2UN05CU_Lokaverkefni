@@ -14,4 +14,4 @@
 ## Að lokum fórum við í að configurea Routera og Switcha með CLI (Command Line Interface) breyta hostname, password, password encryption, ## Banner(Message of the day).
 
 ## 04.12.2017
-## Í dag var farið í að setja SSH á switcha á heimili 1 og heimili 2 settum viðeigandi nöfn og password fyrir heimilin. Fylltum einnig öll ## tækin með banners og hostname sem þurftu á því að halda.
+## Í dag var farið í að setja SSH á switcha á heimili 1 og heimili 2 settum viðeigandi nöfn og password fyrir heimilin. Fylltum einnig öll ## tækin með banners,hostname og password-encryption sem þurftu á því að halda.
