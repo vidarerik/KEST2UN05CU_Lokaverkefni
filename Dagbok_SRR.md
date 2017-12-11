@@ -16,3 +16,6 @@
 
 # 04.12.2017 (Mánudagur)
 ## Í dag var farið í að setja SSH á switch fyrir heimili 1 og heimili 2, auk þess settum við upp viðeigandi nöfn og password fyrir heimilin. fylltum einnin öll tækin með banners "Motd" þar sem það varðar og hostnames gerð skýrari.
+
+# 11.12.2017 (Mánudagur)
+## Í dag var farið grimmt í að setja upp rétt SSH og svo var farið í það að hafa allt security fyrir switcha og routers í lagi.
