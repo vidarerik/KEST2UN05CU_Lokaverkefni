@@ -15,3 +15,6 @@
 
 ## 04.12.2017
 ## Í dag var farið í að setja SSH á switcha á heimili 1 og heimili 2 settum viðeigandi nöfn og password fyrir heimilin. Fylltum einnig öll ## tækin með banners,hostname og password-encryption sem þurftu á því að halda.
+
+## 11.12.2017
+## Í dag varið farið grimmt í að setja SSH og laga security á alla switcha og routera og setja service passsword til að encrypta öll ##passwordin
